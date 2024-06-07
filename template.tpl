@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Verisoul Form Guard",
-  "categories": ["LEAD_GENERATION", "MARKETING", "SALES"]
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -333,6 +333,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 6/7/2024, 4:42:13 PM
+Created on 6/7/2024, 5:06:42 PM
 
 
