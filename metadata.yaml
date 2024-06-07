@@ -1,5 +1,5 @@
 homepage: "https://verisoul.ai"
 documentation: "https:/docs.verisoul.ai"
 versions:
-  - sha: deec0060a6dc9e8b6bacf95e72da803bad377a78
+  - sha: 62fe7d62450e00ea731f59cea2cb421bfc29ef17
     changeNotes: Initial release.
